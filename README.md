@@ -81,3 +81,7 @@ jupyter notebook
 5. View the Power BI Dashboard
 
 Open the .pbix file using Power BI Desktop.
+
+📜 License
+
+This project is for educational and analytical purposes.
