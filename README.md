@@ -60,7 +60,6 @@ The goal is to transform raw transactional data into actionable insights that su
 │ └── Pakistan_Largest_ecommerce_Dashboard.pbix
 │
 ├── README.md
-└── requirements.txt
 
 ---
 
